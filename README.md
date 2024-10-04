@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cbica-chind
 - 👀 I’m interested in HPC
-- 🌱 I’m currently learning quantum computing
 - 😄 Pronouns: he/him
 
 <!---
